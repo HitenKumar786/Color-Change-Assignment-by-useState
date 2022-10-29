@@ -1,0 +1,17 @@
+#color{
+  display: flex;
+  flex: wrap;
+  margin-top: 00px;
+}
+
+#b{
+  display: flex;
+  flex: wrap;
+  border-radius: 25px darkblue;
+  margin-top: 230px;
+  margin-left: 600px;
+  justify-content: center;
+padding: 10px;
+  margin-bottom:280px;
+
+}
